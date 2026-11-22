@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
+chroma_db/
+uploads/
+
+# Textbook pages may be copyrighted: keep them out of the public repo
+data/samples/*
+!data/samples/.gitkeep

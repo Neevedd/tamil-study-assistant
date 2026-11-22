@@ -1,0 +1,13 @@
+# Starter list. We will pin versions as we build each phase.
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+pillow
+opencv-python-headless
+pytesseract
+easyocr
+pymupdf
+sentence-transformers
+chromadb
+pytest
